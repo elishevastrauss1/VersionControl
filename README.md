@@ -1,2 +1,2 @@
 # VersionControl
-Capstone Paper
+Senior Thesis
